@@ -15,18 +15,8 @@
   ##
 <div> 
   <a href = "mailto: davirb21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/daviribeiroba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <p align="center">
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="[https://seuportifolio.com](https://www.figma.com/design/1R1nFWJTIvgUcHMp3D2LHL/portfolio_DaviRibs?node-id=0-1&p=f&t=7ZJ7MplmD76p2hbR-0)" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=Firefox&logoColor=white" alt="Portfólio">
-  </a>
-</p>
+  <a href="https://www.linkedin.com/in/daviribeiroba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
   ![Snake animation](https://github.com/DaviRibs/DaviRibs/blob/output/github-contribution-grid-snake.svg)
 
  
