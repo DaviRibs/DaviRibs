@@ -1,6 +1,6 @@
 # Davi Ribeiro Barros
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor`**
 
 Me chamo Davi Ribeiro Barros, tenho 29 anos e sou natural de Fortaleza. Sou formado em Sistemas de Informação e tenho mais de 4 anos de experiência em suporte. Agora, estou focado em migrar para a área de desenvolvimento, aprimorando minhas habilidades e buscando novos desafios na programação.
 
