@@ -28,7 +28,7 @@ Me chamo Davi Ribeiro Barros, tenho 30 anos e sou natural de Fortaleza. Sou form
 
 ---
 
-### 📩 Contato
+### 📩 Contatos
 
 <div align="center">
   <a href="mailto:davirb21@gmail.com" target="_blank">
