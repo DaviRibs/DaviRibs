@@ -22,7 +22,7 @@ Me chamo Davi Ribeiro Barros, tenho 30 anos e sou natural de Fortaleza. Sou form
 ### 📊 Estatísticas
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaviRibs&theme=dracula" height="170" />
----
+
 
 ### 📩 Contatos
 
